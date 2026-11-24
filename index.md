@@ -17,7 +17,6 @@ Ostallee 63
 Deutschland
 
 **Datenschutzanfragen:** [BaniMani.Kontakt@gmail.com](mailto:BaniMani.Kontakt@gmail.com)  
-**Feedback und App-Support:** [opalnau23.op@gmail.com](mailto:opalnau23.op@gmail.com)
 
 ## 2. Nutzung der App
 
