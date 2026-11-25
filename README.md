@@ -1,3 +1,3 @@
-# mein-app-datenschutz
+# BaniMani-datenschutz
 
 
