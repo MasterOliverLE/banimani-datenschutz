@@ -1,3 +1,3 @@
-# BaniMani-datenschutz
+# BaniMani-Datenschutz
 
 
