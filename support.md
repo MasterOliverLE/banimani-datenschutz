@@ -1,8 +1,3 @@
-
----
-title: BainMani Support
----
-
 # BainMani – Support
 
 Du hast Fragen, Anregungen oder Probleme mit BainMani?
