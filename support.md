@@ -1,3 +1,8 @@
+---
+title: BainMani Support
+permalink: /support.html
+---
+
 # BainMani – Support
 
 Du hast Fragen, Anregungen oder Probleme mit BainMani?
